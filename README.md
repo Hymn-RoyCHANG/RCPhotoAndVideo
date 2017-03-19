@@ -31,5 +31,5 @@
 - (void)rc_stopCaptture;
 ```
     
-![Photo](https://github.com/Hymn-RoyCHANG/PhotoAndVIdeo/edit/master/images/1.jpeg "拍照界面")
-![Photo](https://github.com/Hymn-RoyCHANG/PhotoAndVIdeo/edit/master/images/2.jpeg "录视频界面")
+![Photo](https://github.com/Hymn-RoyCHANG/PhotoAndVIdeo/edit/master/screenshots/1.jpeg "拍照界面")
+![Photo](https://github.com/Hymn-RoyCHANG/PhotoAndVIdeo/edit/master/screenshots/2.jpeg "录视频界面")
